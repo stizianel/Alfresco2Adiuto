@@ -10,8 +10,9 @@ describe('parseXML', () => {
     it('should be a function', () => {
         expect(parseXML).to.be.a('function');
     });
+
     it('should parse XML content', () => {
-        const file = parseXML(xml);
-        expect(file).to.be.an('object');
+        const contents = parseXML(xml);
+        expect(contents).to.be.an('array').with.length.of(22);
     });
 })
