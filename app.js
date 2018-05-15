@@ -3,8 +3,16 @@ const cheerio = require('cheerio');
 const parseXml = require('./lib/parse-xml.js');
 
 
-const xml = fs.readFileSync(`${__dirname}/test/test1.xml`);
+const xml = fs.readFileSync(`${__dirname}/test/testpk09.xml`);
 
 let result = parseXml(xml);
-console.log('fine');
+
+result.map((r) => {
+    console.log(JSON.stringify({ index: { _id: `pg${r.contentName.match(/[0-9]+/g)}` } }));
+    console.log(JSON.stringify(r, null, ' '));
+});
+
+
+//console.log(JSON.stringify(result, null, ' '));
+
 
