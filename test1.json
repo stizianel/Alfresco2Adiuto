@@ -1,0 +1,112 @@
+[
+ {
+  "contentName": "content0.msg",
+  "fileName": "BIOS LINE apertura cliente + codici prodotto_310817 .msg",
+  "folderName": "cm:01 - Comunicazioni"
+ },
+ {
+  "contentName": "content1.msg",
+  "fileName": "CLIENTE BIOS LINE INDICAZIONI_220118.msg",
+  "folderName": "cm:01 - Comunicazioni"
+ },
+ {
+  "contentName": "content2.pdf",
+  "fileName": "DI_BA RICARICHE DILATTE.PDF",
+  "folderName": "cm:BOM"
+ },
+ {
+  "contentName": "content3.doc",
+  "fileName": "Modulo 03UDC.doc",
+  "folderName": "cm:Schede Pallet"
+ },
+ {
+  "contentName": "content4.xlsx",
+  "fileName": "etichette imballi ricariche.xlsx",
+  "folderName": "cm:Allegati"
+ },
+ {
+  "contentName": "content5.xls",
+  "fileName": "allegato 01 PQL PCK 62_ elenco controlli in linea.xls",
+  "folderName": "cm:Allegati"
+ },
+ {
+  "contentName": "content6.xls",
+  "fileName": "allegato 02 PQL PCK 62_ foglio registrazione controlli.xls",
+  "folderName": "cm:Allegati"
+ },
+ {
+  "contentName": "content7.xls",
+  "fileName": "allegato 03 PQL PCK 62_ foglio pesi 400 ml - 60P120740PF.xls",
+  "folderName": "cm:Allegati"
+ },
+ {
+  "contentName": "content8.xls",
+  "fileName": "allegato 04 PQL PCK 62_ foglio pesi 400 ml - 60P120739PF.xls",
+  "folderName": "cm:Allegati"
+ },
+ {
+  "contentName": "content9.msg",
+  "fileName": "BIOS LINE apertura cliente + codici prodotto_310817 .msg",
+  "folderName": "cm:01 - Comunicazioni"
+ },
+ {
+  "contentName": "content10.msg",
+  "fileName": "CLIENTE BIOS LINE INDICAZIONI_220118.msg",
+  "folderName": "cm:01 - Comunicazioni"
+ },
+ {
+  "contentName": "content11.msg",
+  "fileName": "BIOS LINE apertura cliente + codici prodotto_190218.msg",
+  "folderName": "cm:01 - Comunicazioni"
+ },
+ {
+  "contentName": "content12.xls",
+  "fileName": "Distinte-BIOS LINE-COSMETICA.xls",
+  "folderName": "cm:Gestione Distinte"
+ },
+ {
+  "contentName": "content13.pdf",
+  "fileName": "BUSTA-400ML-X12PZ-2UDC-0.pdf",
+  "folderName": "cm:Schede Pallet"
+ },
+ {
+  "contentName": "content14.pdf",
+  "fileName": "BUSTA-400ML-X12PZ-1UDC-0.pdf",
+  "folderName": "cm:Schede Pallet"
+ },
+ {
+  "contentName": "content15.doc",
+  "fileName": "60230702.doc",
+  "folderName": "cm:04 - Approvata"
+ },
+ {
+  "contentName": "content16.pdf",
+  "fileName": "60230702.pdf",
+  "folderName": "cm:Distinta Base - 60230702"
+ },
+ {
+  "contentName": "content17.xls",
+  "fileName": "Scheda Codice Prodotto_60230702.xls",
+  "folderName": "cm:Distinta Base - 60230702"
+ },
+ {
+  "contentName": "content18.doc",
+  "fileName": "60230704.doc",
+  "folderName": "cm:04 - Approvata"
+ },
+ {
+  "contentName": "content19.pdf",
+  "fileName": "60230704.pdf",
+  "folderName": "cm:Distinta Base - 60230704"
+ },
+ {
+  "contentName": "content20.xls",
+  "fileName": "Scheda Codice Prodotto_60230704.xls",
+  "folderName": "cm:Distinta Base - 60230704"
+ },
+ {
+  "contentName": "content21.acp",
+  "fileName": "testMigration.acp",
+  "folderName": "cm:PQL PCK 62 - COSMETICA"
+ }
+]
