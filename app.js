@@ -4,7 +4,7 @@ const parseXml = require('./lib/parse-xml.js');
 const ws = require('./lib/adiutoWs.js');
 
 
-const xml = fs.readFileSync(`${__dirname}/test/testpk09.xml`);
+const xml = fs.readFileSync(`${__dirname}/test/PQLPCK01-documentiComuni.xml`);
 
 let result = parseXml(xml);
 

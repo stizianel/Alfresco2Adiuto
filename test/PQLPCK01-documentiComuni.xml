@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view:view xmlns:view="http://www.alfresco.org/view/repository/1.0">
+  <view:metadata>
+    <view:exportBy>adminadiuto</view:exportBy>
+    <view:exportDate>2018-05-29T10:52:20.240+02:00</view:exportDate>
+    <view:exporterVersion>3.4.0 (d 3370)</view:exporterVersion>
+    <view:exportOf>/app:company_home/cm:Intranet/cm:Qualità/cm:Blue_x0020_book/cm:PQL_x0020_PCK_x0020_-_x0020_01_x0020_-_x0020_Documenti_x0020_Comuni</view:exportOf>
+  </view:metadata>
+  <cm:folder xmlns="" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rn="http://www.alfresco.org/model/rendition/1.0" xmlns:sys="http://www.alfresco.org/model/system/1.0" xmlns:lnk="http://www.alfresco.org/model/linksmodel/1.0" xmlns:gd="http://www.alfresco.org/model/googledocs/1.0" xmlns:ver="http://www.alfresco.org/model/versionstore/1.0" xmlns:cmiscustom="http://www.alfresco.org/model/cmis/custom" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:emailserver="http://www.alfresco.org/model/emailserver/1.0" xmlns:fm="http://www.alfresco.org/model/forum/1.0" xmlns:ia="http://www.alfresco.org/model/calendar" xmlns:rule="http://www.alfresco.org/model/rule/1.0" xmlns:wcm="http://www.alfresco.org/model/wcmmodel/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:dl="http://www.alfresco.org/model/datalist/1.0" xmlns:st="http://www.alfresco.org/model/site/1.0" xmlns:usr="http://www.alfresco.org/model/user/1.0" xmlns:custom="custom.model" xmlns:exif="http://www.alfresco.org/model/exif/1.0" xmlns:app="http://www.alfresco.org/model/application/1.0" xmlns:module="http://www.alfresco.org/system/modules/1.0" xmlns:d="http://www.alfresco.org/model/dictionary/1.0" xmlns:blg="http://www.alfresco.org/model/blogintegration/1.0" xmlns:alf="http://www.alfresco.org" xmlns:cmis="http://www.alfresco.org/model/cmis/1.0/cs01" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:wca="http://www.alfresco.org/model/wcmappmodel/1.0" xmlns:bpm="http://www.alfresco.org/model/bpm/1.0" xmlns:inwf="http://www.alfresco.org/model/workflow/invite/nominated/1.0" xmlns:imap="http://www.alfresco.org/model/imap/1.0" xmlns:cm="http://www.alfresco.org/model/content/1.0" xmlns:reg="http://www.alfresco.org/system/registry/1.0" xmlns:ver2="http://www.alfresco.org/model/versionstore/2.0" xmlns:stcp="http://www.alfresco.org/model/sitecustomproperty/1.0" xmlns:wcmwf="http://www.alfresco.org/model/wcmworkflow/1.0" xmlns:view="http://www.alfresco.org/view/repository/1.0" xmlns:imwf="http://www.alfresco.org/model/workflow/invite/moderated/1.0" xmlns:act="http://www.alfresco.org/model/action/1.0" xmlns:wf="http://www.alfresco.org/model/workflow/1.0" xmlns:trx="http://www.alfresco.org/model/transfer/1.0" view:childName="cm:Allegati generici">
+    <view:aspects>
+      <cm:auditable></cm:auditable>
+      <sys:referenceable></sys:referenceable>
+    </view:aspects>
+    <view:acl></view:acl>
+    <view:properties>
+      <cm:name>Allegati generici</cm:name>
+      <sys:node-dbid>54545</sys:node-dbid>
+      <sys:store-identifier>SpacesStore</sys:store-identifier>
+      <cm:modified>2014-02-07T17:26:42.615+01:00</cm:modified>
+      <sys:node-uuid>83f1a1b3-e251-4f08-ae2f-10ff7ebbf650</sys:node-uuid>
+      <cm:created>2010-02-26T14:11:20.830+01:00</cm:created>
+      <sys:store-protocol>workspace</sys:store-protocol>
+      <cm:creator>manuela</cm:creator>
+      <cm:modifier>manuela</cm:modifier>
+    </view:properties>
+    <view:associations>
+      <cm:contains>
+        <cm:content view:childName="cm:PQL PCK Allegato Generico 01.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:lockable></cm:lockable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PQL PCK Allegato Generico 01.xls</cm:name>
+            <sys:node-dbid>54546</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:lockOwner>
+              <view:value view:isNull="true"></view:value>
+            </cm:lockOwner>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content0.xls|mimetype=application/vnd.ms-excel|size=26624|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:expiryDate>
+              <view:value view:isNull="true"></view:value>
+            </cm:expiryDate>
+            <sys:node-uuid>71b2bc1a-1af8-4690-8c10-0c52def8ff62</sys:node-uuid>
+            <cm:modified>2010-07-01T18:33:05.707+02:00</cm:modified>
+            <cm:created>2010-02-26T14:11:21.294+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:lockType>
+              <view:value view:isNull="true"></view:value>
+            </cm:lockType>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>luigi</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:PQL PCK Allegato Generico 02.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PQL PCK Allegato Generico 02.xls</cm:name>
+            <sys:node-dbid>54547</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content1.xls|mimetype=application/vnd.ms-excel|size=39424|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2017-11-23T16:47:44.762+01:00</cm:modified>
+            <sys:node-uuid>58e09ff5-dde9-4d75-8197-cf43138ed667</sys:node-uuid>
+            <cm:created>2010-02-26T14:11:23.121+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:PQL PCK Allegato Generico 04.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PQL PCK Allegato Generico 04.xls</cm:name>
+            <sys:node-dbid>54548</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content2.xls|mimetype=application/vnd.ms-excel|size=15872|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2010-02-26T14:11:24.863+01:00</cm:modified>
+            <sys:node-uuid>ada01247-a82b-4513-ab8b-73ce15aa0859</sys:node-uuid>
+            <cm:created>2010-02-26T14:11:23.744+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:PQL PCK Allegato Generico 06.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PQL PCK Allegato Generico 06.doc</cm:name>
+            <sys:node-dbid>54549</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content3.doc|mimetype=application/msword|size=160768|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2010-02-26T14:11:25.455+01:00</cm:modified>
+            <sys:node-uuid>5e7cfa94-e2ad-4592-9d36-5441681c999e</sys:node-uuid>
+            <cm:created>2010-02-26T14:11:25.101+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:PQL PCK Allegato Generico 08_pulizia filtri.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PQL PCK Allegato Generico 08_pulizia filtri.xls</cm:name>
+            <sys:node-dbid>54550</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content4.xls|mimetype=application/vnd.ms-excel|size=19968|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2010-02-26T14:11:26.508+01:00</cm:modified>
+            <sys:node-uuid>e3341160-d9b6-4754-a93b-b1ab45864d35</sys:node-uuid>
+            <cm:created>2010-02-26T14:11:26.211+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:PG PCK 13 Allegato 06_modulo materiale non conforme.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PG PCK 13 Allegato 06_modulo materiale non conforme.xls</cm:name>
+            <sys:node-dbid>146130</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content5.xls|mimetype=application/vnd.ms-excel|size=19968|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2010-09-06T10:48:42.297+02:00</cm:modified>
+            <sys:node-uuid>5dadab3d-b9b1-4050-9219-547ca8299f45</sys:node-uuid>
+            <cm:created>2010-09-06T10:48:28.736+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:PG PCK 08 Allegato 04_registraz.MP.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:versionable></cm:versionable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PG PCK 08 Allegato 04_registraz.MP.xls</cm:name>
+            <cm:autoVersionOnUpdateProps>true</cm:autoVersionOnUpdateProps>
+            <sys:node-dbid>155921</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:versionLabel>1.2</cm:versionLabel>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content6.xls|mimetype=application/vnd.ms-excel|size=15360|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:autoVersion>true</cm:autoVersion>
+            <cm:modified>2014-09-16T17:21:30.328+02:00</cm:modified>
+            <sys:node-uuid>a748f43d-e479-4946-973b-d1b44ed1346c</sys:node-uuid>
+            <cm:created>2010-10-08T14:02:44.497+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+            <cm:initialVersion>true</cm:initialVersion>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:ISTO PCK 62 Allegato 01_registr.abamect.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>ISTO PCK 62 Allegato 01_registr.abamect.doc</cm:name>
+            <sys:node-dbid>158312</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content7.doc|mimetype=application/msword|size=145408|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2010-11-05T08:50:12.637+01:00</cm:modified>
+            <sys:node-uuid>115a2733-5052-4c28-b971-299a028b964b</sys:node-uuid>
+            <cm:created>2010-11-05T08:49:53.751+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:ISTO PCK 08 Allegato 01_taratura pHmetro.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>ISTO PCK 08 Allegato 01_taratura pHmetro.xls</cm:name>
+            <sys:node-dbid>160441</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content8.xls|mimetype=application/vnd.ms-excel|size=40448|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2017-04-13T15:30:53.054+02:00</cm:modified>
+            <sys:node-uuid>6840eeda-74db-4488-a369-a2645da363f3</sys:node-uuid>
+            <cm:created>2010-11-30T09:45:40.532+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:All.16 PG PCK 08 - Checklist per il cambio in linea.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>All.16 PG PCK 08 - Checklist per il cambio in linea.doc</cm:name>
+            <sys:node-dbid>174820</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content9.doc|mimetype=application/msword|size=135680|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2017-04-19T15:49:09.553+02:00</cm:modified>
+            <sys:node-uuid>faafb680-b202-4545-9711-d6b7a2e45e4b</sys:node-uuid>
+            <cm:created>2014-02-07T17:23:17.896+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:ISTO PCK 14_Allegato 02_reg.std P&amp;G.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>ISTO PCK 14_Allegato 02_reg.std P&amp;G.xls</cm:name>
+            <sys:node-dbid>174822</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content10.xls|mimetype=application/vnd.ms-excel|size=154112|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">ISTO PCK 14_Allegato 02_reg.std P&amp;G.xls</view:mlvalue>
+            </cm:title>
+            <cm:author>Iseppi Manuela</cm:author>
+            <sys:node-uuid>b71e7a2c-cd78-4640-add0-6ef0355b8d77</sys:node-uuid>
+            <cm:modified>2011-03-24T16:53:28.167+01:00</cm:modified>
+            <cm:created>2011-03-24T16:53:20.221+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Modulo Change terzisti.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Modulo Change terzisti.doc</cm:name>
+            <sys:node-dbid>198038</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content11.doc|mimetype=application/msword|size=129536|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2016-05-17T12:24:06.301+02:00</cm:modified>
+            <sys:node-uuid>26cf291c-5143-4edc-b087-b1d7481dad46</sys:node-uuid>
+            <cm:created>2011-07-12T09:28:43.638+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:etichette semilav..doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>etichette semilav..doc</cm:name>
+            <sys:node-dbid>212105</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content12.doc|mimetype=application/msword|size=1230848|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2016-02-12T11:48:03.814+01:00</cm:modified>
+            <sys:node-uuid>013af760-0a0d-499c-a2bf-ff0da2a277a6</sys:node-uuid>
+            <cm:created>2011-09-08T12:01:26.213+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:etichette approvato abamectina.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>etichette approvato abamectina.doc</cm:name>
+            <sys:node-dbid>231212</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content13.doc|mimetype=application/msword|size=1228288|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2012-01-05T08:23:52.729+01:00</cm:modified>
+            <sys:node-uuid>e71ce971-9912-4df2-9da1-3eb030cf7cd4</sys:node-uuid>
+            <cm:created>2009-11-18T08:30:38.826+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:FOGLIO REG.MICRO.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>FOGLIO REG.MICRO.xls</cm:name>
+            <sys:node-dbid>234328</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content14.xls|mimetype=application/vnd.ms-excel|size=16384|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2012-01-31T17:15:11.823+01:00</cm:modified>
+            <sys:node-uuid>8e492bf5-78eb-4555-b664-5061c9551076</sys:node-uuid>
+            <cm:created>2012-01-31T17:03:26.130+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:etichette TARATURE CON ok.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>etichette TARATURE CON ok.doc</cm:name>
+            <sys:node-dbid>248043</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content15.doc|mimetype=application/msword|size=2237952|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2012-03-19T10:32:30.924+01:00</cm:modified>
+            <sys:node-uuid>3887c97d-1dbc-46fe-afbd-7ae6aa0e70f0</sys:node-uuid>
+            <cm:created>2012-03-19T10:32:23.324+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:etichette STD MP.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>etichette STD MP.doc</cm:name>
+            <sys:node-dbid>253557</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content16.doc|mimetype=application/msword|size=1232896|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2012-04-10T11:15:32.329+02:00</cm:modified>
+            <sys:node-uuid>04ed5609-45c2-48d5-a5a5-1e004bcae235</sys:node-uuid>
+            <cm:created>2012-04-10T11:15:25.946+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:etichette NUOVE MP.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>etichette NUOVE MP.doc</cm:name>
+            <sys:node-dbid>253995</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content17.doc|mimetype=application/msword|size=1230848|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2012-04-12T15:42:36.884+02:00</cm:modified>
+            <sys:node-uuid>d3a87218-cf94-4db0-a71d-d004e0879cf8</sys:node-uuid>
+            <cm:created>2012-04-12T15:42:34.086+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Etichette prod camp MICRO-UGELLI.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Etichette prod camp MICRO-UGELLI.doc</cm:name>
+            <sys:node-dbid>260331</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content18.doc|mimetype=application/msword|size=2432000|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">Etichette prod camp MICRO-UGELLI.doc</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>75c01be9-9e8d-4dc0-b849-8b881d17d0cc</sys:node-uuid>
+            <cm:modified>2012-05-15T12:12:36.269+02:00</cm:modified>
+            <cm:created>2012-05-15T12:12:29.590+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Etich prod campion INIZIO-FINE.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Etich prod campion INIZIO-FINE.doc</cm:name>
+            <sys:node-dbid>260332</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content19.doc|mimetype=application/msword|size=1235968|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">Etich prod campion INIZIO-FINE.doc</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>7c9274f6-558d-487c-aaa2-82123c898cdd</sys:node-uuid>
+            <cm:modified>2012-05-15T12:13:36.402+02:00</cm:modified>
+            <cm:created>2012-05-15T12:13:30.454+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Modulo consegna campioni da recuperare.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Modulo consegna campioni da recuperare.doc</cm:name>
+            <sys:node-dbid>261162</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content20.doc|mimetype=application/msword|size=138240|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">Spett</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>cf266f49-af38-41fe-93a2-0a44f2be04c6</sys:node-uuid>
+            <cm:modified>2012-05-24T09:21:56.786+02:00</cm:modified>
+            <cm:created>2012-05-24T09:21:52.968+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Cartello Miscel Cubi Cosmet-Deterg.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Cartello Miscel Cubi Cosmet-Deterg.doc</cm:name>
+            <sys:node-dbid>278888</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content21.doc|mimetype=application/msword|size=31232|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">Cartello Miscel Cubi Cosmet-Deterg.doc</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>0333434c-b5a9-4ac6-b9b6-857bcf9e2ba5</sys:node-uuid>
+            <cm:modified>2012-11-28T11:42:26.288+01:00</cm:modified>
+            <cm:created>2012-11-28T11:41:24.289+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Cartello Miscel.Serbatoi Cosmetica.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Cartello Miscel.Serbatoi Cosmetica.doc</cm:name>
+            <sys:node-dbid>278889</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content22.doc|mimetype=application/msword|size=30720|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">Cartello Miscel.Serbatoi Cosmetica.doc</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>32ada67d-9d65-4f6d-b1c9-06fc161cab21</sys:node-uuid>
+            <cm:modified>2012-11-29T10:01:44.985+01:00</cm:modified>
+            <cm:created>2012-11-28T11:42:56.531+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Cartello rosso NON CONFORME.pdf">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Cartello rosso NON CONFORME.pdf</cm:name>
+            <sys:node-dbid>279744</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content23.pdf|mimetype=application/pdf|size=118333|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">Cartello rosso NON CONFORME.pdf</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>fff5a207-6390-4d51-9cef-90c1f69b152e</sys:node-uuid>
+            <cm:modified>2012-12-03T12:17:23.694+01:00</cm:modified>
+            <cm:created>2012-12-03T12:07:31.998+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Allegato 01 PG PCK 26 ED 01 27072007 scheda controllo materie prime.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Allegato 01 PG PCK 26 ED 01 27072007 scheda controllo materie prime.doc</cm:name>
+            <sys:node-dbid>321643</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content24.doc|mimetype=application/msword|size=163840|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>d87bb98e-5d1d-417c-b4aa-ec9082062daa</sys:node-uuid>
+            <cm:modified>2013-04-16T12:02:57.405+02:00</cm:modified>
+            <cm:created>2013-04-16T12:02:41.652+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:FOGLIO REG.MICRO SELETTIVA.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>FOGLIO REG.MICRO SELETTIVA.xls</cm:name>
+            <sys:node-dbid>345389</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content25.xls|mimetype=application/vnd.ms-excel|size=16896|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">FOGLIO REG.MICRO SELETTIVA.xls</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>aabf1e7a-b593-448e-bcfe-550c1009f8ff</sys:node-uuid>
+            <cm:modified>2013-07-30T17:00:24.901+02:00</cm:modified>
+            <cm:created>2013-07-30T17:00:17.519+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:FOGLIO CAMPIONI GIORNALIERI BOLTON MANITOBA.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>FOGLIO CAMPIONI GIORNALIERI BOLTON MANITOBA.xls</cm:name>
+            <sys:node-dbid>378403</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content26.xls|mimetype=application/vnd.ms-excel|size=16384|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:modified>2014-02-04T08:47:26.425+01:00</cm:modified>
+            <sys:node-uuid>3549cb86-ed85-434a-8fdd-699396ddc3e0</sys:node-uuid>
+            <cm:created>2014-02-04T08:47:25.400+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Etichette per pesate bilancia MIN-MAX.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Etichette per pesate bilancia MIN-MAX.doc</cm:name>
+            <sys:node-dbid>418292</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content27.doc|mimetype=application/msword|size=2432512|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">Etichette per pesate bilancia MIN-MAX.doc</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>7b2e65f6-62ba-4c8b-9fa7-708de1360c81</sys:node-uuid>
+            <cm:modified>2014-09-05T11:45:31.885+02:00</cm:modified>
+            <cm:created>2014-09-05T11:45:24.326+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:fogli batch raid.pdf">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>fogli batch raid.pdf</cm:name>
+            <sys:node-dbid>470971</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content28.pdf|mimetype=application/pdf|size=126026|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">fogli batch raid.pdf</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>00d75fa0-33be-4dac-8513-0fad2016683d</sys:node-uuid>
+            <cm:modified>2015-03-13T15:16:34.148+01:00</cm:modified>
+            <cm:created>2015-03-13T15:16:32.976+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:Etichette  MICRO DETERGENZA.doc">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Etichette  MICRO DETERGENZA.doc</cm:name>
+            <sys:node-dbid>605850</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content29.doc|mimetype=application/msword|size=2421760|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">Etichette  MICRO DETERGENZA.doc</view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>f703e31b-0700-486c-af0d-e5657819cd75</sys:node-uuid>
+            <cm:modified>2016-08-03T16:27:50.430+02:00</cm:modified>
+            <cm:created>2016-08-03T16:27:42.602+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>jessica</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm:PG PCK 08 All. 11_Controllo PF-CQ giornaliero.xlsx">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PG PCK 08 All. 11_Controllo PF-CQ giornaliero.xlsx</cm:name>
+            <sys:node-dbid>649003</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content30.xlsx|mimetype=application/vnd.openxmlformats-officedocument.spreadsheetml.sheet|size=46228|encoding=utf-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT">PG PCK 08 All. 11_Controllo PF-CQ giornaliero.xlsx</view:mlvalue>
+            </cm:title>
+            <cm:author>Jessica Sabbatani</cm:author>
+            <sys:node-uuid>c0649d2c-3150-4210-aaa6-eed487893230</sys:node-uuid>
+            <cm:modified>2017-07-19T11:39:19.642+02:00</cm:modified>
+            <cm:created>2017-07-19T11:39:17.852+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>manuela</cm:creator>
+            <cm:modifier>manuela</cm:modifier>
+          </view:properties>
+        </cm:content>
+      </cm:contains>
+    </view:associations>
+  </cm:folder>
+  <cm:folder xmlns="" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rn="http://www.alfresco.org/model/rendition/1.0" xmlns:sys="http://www.alfresco.org/model/system/1.0" xmlns:lnk="http://www.alfresco.org/model/linksmodel/1.0" xmlns:gd="http://www.alfresco.org/model/googledocs/1.0" xmlns:ver="http://www.alfresco.org/model/versionstore/1.0" xmlns:cmiscustom="http://www.alfresco.org/model/cmis/custom" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:emailserver="http://www.alfresco.org/model/emailserver/1.0" xmlns:fm="http://www.alfresco.org/model/forum/1.0" xmlns:ia="http://www.alfresco.org/model/calendar" xmlns:rule="http://www.alfresco.org/model/rule/1.0" xmlns:wcm="http://www.alfresco.org/model/wcmmodel/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:dl="http://www.alfresco.org/model/datalist/1.0" xmlns:st="http://www.alfresco.org/model/site/1.0" xmlns:usr="http://www.alfresco.org/model/user/1.0" xmlns:custom="custom.model" xmlns:exif="http://www.alfresco.org/model/exif/1.0" xmlns:app="http://www.alfresco.org/model/application/1.0" xmlns:module="http://www.alfresco.org/system/modules/1.0" xmlns:d="http://www.alfresco.org/model/dictionary/1.0" xmlns:blg="http://www.alfresco.org/model/blogintegration/1.0" xmlns:alf="http://www.alfresco.org" xmlns:cmis="http://www.alfresco.org/model/cmis/1.0/cs01" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:wca="http://www.alfresco.org/model/wcmappmodel/1.0" xmlns:bpm="http://www.alfresco.org/model/bpm/1.0" xmlns:inwf="http://www.alfresco.org/model/workflow/invite/nominated/1.0" xmlns:imap="http://www.alfresco.org/model/imap/1.0" xmlns:cm="http://www.alfresco.org/model/content/1.0" xmlns:reg="http://www.alfresco.org/system/registry/1.0" xmlns:ver2="http://www.alfresco.org/model/versionstore/2.0" xmlns:stcp="http://www.alfresco.org/model/sitecustomproperty/1.0" xmlns:wcmwf="http://www.alfresco.org/model/wcmworkflow/1.0" xmlns:view="http://www.alfresco.org/view/repository/1.0" xmlns:imwf="http://www.alfresco.org/model/workflow/invite/moderated/1.0" xmlns:act="http://www.alfresco.org/model/action/1.0" xmlns:wf="http://www.alfresco.org/model/workflow/1.0" xmlns:trx="http://www.alfresco.org/model/transfer/1.0" view:childName="cm:Indice PQL PCK">
+    <view:aspects>
+      <cm:auditable></cm:auditable>
+      <app:uifacets></app:uifacets>
+      <sys:referenceable></sys:referenceable>
+      <cm:titled></cm:titled>
+    </view:aspects>
+    <view:acl></view:acl>
+    <view:properties>
+      <app:icon>space-icon-default</app:icon>
+      <cm:name>Indice PQL PCK</cm:name>
+      <sys:node-dbid>94822</sys:node-dbid>
+      <sys:store-identifier>SpacesStore</sys:store-identifier>
+      <cm:title>
+        <view:mlvalue view:locale="it_IT"></view:mlvalue>
+      </cm:title>
+      <cm:modified>2010-05-04T15:41:19.810+02:00</cm:modified>
+      <sys:node-uuid>fe16803e-11dd-4021-951b-b9b34003b6a5</sys:node-uuid>
+      <cm:created>2010-05-04T15:37:57.102+02:00</cm:created>
+      <sys:store-protocol>workspace</sys:store-protocol>
+      <cm:creator>luigi</cm:creator>
+      <cm:description>
+        <view:mlvalue view:locale="it_IT"></view:mlvalue>
+      </cm:description>
+      <cm:modifier>luigi</cm:modifier>
+    </view:properties>
+    <view:associations>
+      <cm:contains>
+        <cm:content view:childName="cm:Indice PQL PCK.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <cm:ownable></cm:ownable>
+            <sys:referenceable></sys:referenceable>
+            <cm:lockable></cm:lockable>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Indice PQL PCK.xls</cm:name>
+            <sys:node-dbid>94824</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:lockOwner>
+              <view:value view:isNull="true"></view:value>
+            </cm:lockOwner>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content31.xls|mimetype=application/vnd.ms-excel|size=48640|encoding=UTF-8|locale=en_US_</cm:content>
+            <cm:owner>luigi</cm:owner>
+            <cm:expiryDate>
+              <view:value view:isNull="true"></view:value>
+            </cm:expiryDate>
+            <cm:modified>2018-03-23T13:53:22.785+01:00</cm:modified>
+            <sys:node-uuid>25835ad1-75dd-4cb6-9216-4a562de21b75</sys:node-uuid>
+            <cm:created>2010-05-04T15:41:17.136+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:lockType>
+              <view:value view:isNull="true"></view:value>
+            </cm:lockType>
+            <cm:creator>luigi</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:folder view:childName="cm:Indice PQL PCK">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <app:uifacets></app:uifacets>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:copiedfrom></cm:copiedfrom>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <app:icon>space-icon-default</app:icon>
+            <cm:name>Indice PQL PCK</cm:name>
+            <sys:node-dbid>95223</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:source>../../cm:Indice_x0020_PQL_x0020_PCK</cm:source>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:title>
+            <sys:node-uuid>3d7c0b99-480c-4e4a-9bfd-abfd9fd70cb2</sys:node-uuid>
+            <cm:modified>2010-05-05T15:09:40.025+02:00</cm:modified>
+            <cm:created>2010-05-05T15:09:39.952+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:creator>luigi</cm:creator>
+            <cm:modifier>luigi</cm:modifier>
+          </view:properties>
+          <view:associations>
+            <cm:contains>
+              <cm:content view:childName="cm:Indice PQL PCK.xls">
+                <view:aspects>
+                  <cm:auditable></cm:auditable>
+                  <sys:referenceable></sys:referenceable>
+                  <cm:titled></cm:titled>
+                  <cm:lockable></cm:lockable>
+                  <cm:copiedfrom></cm:copiedfrom>
+                  <cm:author></cm:author>
+                </view:aspects>
+                <view:acl></view:acl>
+                <view:properties>
+                  <cm:name>Indice PQL PCK.xls</cm:name>
+                  <sys:node-dbid>95224</sys:node-dbid>
+                  <sys:store-identifier>SpacesStore</sys:store-identifier>
+                  <cm:expiryDate>
+                    <view:value view:isNull="true"></view:value>
+                  </cm:expiryDate>
+                  <sys:node-uuid>7c66ac93-7cdd-4c7a-ac80-97806ace7076</sys:node-uuid>
+                  <cm:creator>luigi</cm:creator>
+                  <cm:description>
+                    <view:mlvalue view:locale="it_IT">OBSOLETO -- NON USARE</view:mlvalue>
+                  </cm:description>
+                  <cm:modifier>manuela</cm:modifier>
+                  <cm:lockOwner>
+                    <view:value view:isNull="true"></view:value>
+                  </cm:lockOwner>
+                  <cm:content>contentUrl=PQLPCK01-documentiComuni/content32.xls|mimetype=application/vnd.ms-excel|size=25088|encoding=UTF-8|locale=en_US_</cm:content>
+                  <cm:source>../../../cm:Indice_x0020_PQL_x0020_PCK/cm:Indice_x0020_PQL_x0020_PCK.xls</cm:source>
+                  <cm:title>
+                    <view:mlvalue view:locale="it_IT"></view:mlvalue>
+                  </cm:title>
+                  <cm:modified>2013-04-12T11:31:44.798+02:00</cm:modified>
+                  <cm:author></cm:author>
+                  <cm:created>2010-05-05T15:09:39.998+02:00</cm:created>
+                  <cm:lockType>
+                    <view:value view:isNull="true"></view:value>
+                  </cm:lockType>
+                  <sys:store-protocol>workspace</sys:store-protocol>
+                </view:properties>
+              </cm:content>
+            </cm:contains>
+          </view:associations>
+        </cm:folder>
+      </cm:contains>
+    </view:associations>
+  </cm:folder>
+  <cm:folder xmlns="" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rn="http://www.alfresco.org/model/rendition/1.0" xmlns:sys="http://www.alfresco.org/model/system/1.0" xmlns:lnk="http://www.alfresco.org/model/linksmodel/1.0" xmlns:gd="http://www.alfresco.org/model/googledocs/1.0" xmlns:ver="http://www.alfresco.org/model/versionstore/1.0" xmlns:cmiscustom="http://www.alfresco.org/model/cmis/custom" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:emailserver="http://www.alfresco.org/model/emailserver/1.0" xmlns:fm="http://www.alfresco.org/model/forum/1.0" xmlns:ia="http://www.alfresco.org/model/calendar" xmlns:rule="http://www.alfresco.org/model/rule/1.0" xmlns:wcm="http://www.alfresco.org/model/wcmmodel/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:dl="http://www.alfresco.org/model/datalist/1.0" xmlns:st="http://www.alfresco.org/model/site/1.0" xmlns:usr="http://www.alfresco.org/model/user/1.0" xmlns:custom="custom.model" xmlns:exif="http://www.alfresco.org/model/exif/1.0" xmlns:app="http://www.alfresco.org/model/application/1.0" xmlns:module="http://www.alfresco.org/system/modules/1.0" xmlns:d="http://www.alfresco.org/model/dictionary/1.0" xmlns:blg="http://www.alfresco.org/model/blogintegration/1.0" xmlns:alf="http://www.alfresco.org" xmlns:cmis="http://www.alfresco.org/model/cmis/1.0/cs01" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:wca="http://www.alfresco.org/model/wcmappmodel/1.0" xmlns:bpm="http://www.alfresco.org/model/bpm/1.0" xmlns:inwf="http://www.alfresco.org/model/workflow/invite/nominated/1.0" xmlns:imap="http://www.alfresco.org/model/imap/1.0" xmlns:cm="http://www.alfresco.org/model/content/1.0" xmlns:reg="http://www.alfresco.org/system/registry/1.0" xmlns:ver2="http://www.alfresco.org/model/versionstore/2.0" xmlns:stcp="http://www.alfresco.org/model/sitecustomproperty/1.0" xmlns:wcmwf="http://www.alfresco.org/model/wcmworkflow/1.0" xmlns:view="http://www.alfresco.org/view/repository/1.0" xmlns:imwf="http://www.alfresco.org/model/workflow/invite/moderated/1.0" xmlns:act="http://www.alfresco.org/model/action/1.0" xmlns:wf="http://www.alfresco.org/model/workflow/1.0" xmlns:trx="http://www.alfresco.org/model/transfer/1.0" view:childName="cm:Indice PQL PCK M&amp;R">
+    <view:aspects>
+      <cm:auditable></cm:auditable>
+      <app:uifacets></app:uifacets>
+      <sys:referenceable></sys:referenceable>
+      <cm:titled></cm:titled>
+    </view:aspects>
+    <view:acl></view:acl>
+    <view:properties>
+      <app:icon>space-icon-default</app:icon>
+      <cm:name>Indice PQL PCK M&amp;R</cm:name>
+      <sys:node-dbid>94823</sys:node-dbid>
+      <sys:store-identifier>SpacesStore</sys:store-identifier>
+      <cm:title>
+        <view:mlvalue view:locale="it_IT"></view:mlvalue>
+      </cm:title>
+      <cm:modified>2010-05-04T17:23:36.794+02:00</cm:modified>
+      <sys:node-uuid>ada48671-af0e-4aca-9c2d-3f78a8c5d748</sys:node-uuid>
+      <cm:created>2010-05-04T15:39:15.149+02:00</cm:created>
+      <sys:store-protocol>workspace</sys:store-protocol>
+      <cm:creator>luigi</cm:creator>
+      <cm:description>
+        <view:mlvalue view:locale="it_IT"></view:mlvalue>
+      </cm:description>
+      <cm:modifier>luigi</cm:modifier>
+    </view:properties>
+    <view:associations>
+      <cm:contains>
+        <cm:content view:childName="cm:Indice PQL PCK M&amp;R.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Indice PQL PCK M&amp;R.xls</cm:name>
+            <sys:node-dbid>228070</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content33.xls|mimetype=application/vnd.ms-excel|size=39424|encoding=UTF-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="en_US">Indice PQL PCK M&amp;R.xls</view:mlvalue>
+            </cm:title>
+            <cm:author>Packaging Imolese S.p.A.</cm:author>
+            <sys:node-uuid>beecc647-8462-419e-bacf-5e93098c3b83</sys:node-uuid>
+            <cm:modified>2017-12-19T10:18:49.436+01:00</cm:modified>
+            <cm:created>2011-12-13T18:05:20.016+01:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="en_US"></view:mlvalue>
+            </cm:description>
+            <cm:creator>massimo</cm:creator>
+            <cm:modifier>jessica</cm:modifier>
+          </view:properties>
+        </cm:content>
+      </cm:contains>
+    </view:associations>
+  </cm:folder>
+  <cm:folder xmlns="" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rn="http://www.alfresco.org/model/rendition/1.0" xmlns:sys="http://www.alfresco.org/model/system/1.0" xmlns:lnk="http://www.alfresco.org/model/linksmodel/1.0" xmlns:gd="http://www.alfresco.org/model/googledocs/1.0" xmlns:ver="http://www.alfresco.org/model/versionstore/1.0" xmlns:cmiscustom="http://www.alfresco.org/model/cmis/custom" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:emailserver="http://www.alfresco.org/model/emailserver/1.0" xmlns:fm="http://www.alfresco.org/model/forum/1.0" xmlns:ia="http://www.alfresco.org/model/calendar" xmlns:rule="http://www.alfresco.org/model/rule/1.0" xmlns:wcm="http://www.alfresco.org/model/wcmmodel/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:dl="http://www.alfresco.org/model/datalist/1.0" xmlns:st="http://www.alfresco.org/model/site/1.0" xmlns:usr="http://www.alfresco.org/model/user/1.0" xmlns:custom="custom.model" xmlns:exif="http://www.alfresco.org/model/exif/1.0" xmlns:app="http://www.alfresco.org/model/application/1.0" xmlns:module="http://www.alfresco.org/system/modules/1.0" xmlns:d="http://www.alfresco.org/model/dictionary/1.0" xmlns:blg="http://www.alfresco.org/model/blogintegration/1.0" xmlns:alf="http://www.alfresco.org" xmlns:cmis="http://www.alfresco.org/model/cmis/1.0/cs01" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:wca="http://www.alfresco.org/model/wcmappmodel/1.0" xmlns:bpm="http://www.alfresco.org/model/bpm/1.0" xmlns:inwf="http://www.alfresco.org/model/workflow/invite/nominated/1.0" xmlns:imap="http://www.alfresco.org/model/imap/1.0" xmlns:cm="http://www.alfresco.org/model/content/1.0" xmlns:reg="http://www.alfresco.org/system/registry/1.0" xmlns:ver2="http://www.alfresco.org/model/versionstore/2.0" xmlns:stcp="http://www.alfresco.org/model/sitecustomproperty/1.0" xmlns:wcmwf="http://www.alfresco.org/model/wcmworkflow/1.0" xmlns:view="http://www.alfresco.org/view/repository/1.0" xmlns:imwf="http://www.alfresco.org/model/workflow/invite/moderated/1.0" xmlns:act="http://www.alfresco.org/model/action/1.0" xmlns:wf="http://www.alfresco.org/model/workflow/1.0" xmlns:trx="http://www.alfresco.org/model/transfer/1.0" view:childName="cm:Indice PQL PCK GDO COSMETICA">
+    <view:aspects>
+      <cm:auditable></cm:auditable>
+      <app:uifacets></app:uifacets>
+      <sys:referenceable></sys:referenceable>
+      <cm:titled></cm:titled>
+      <cm:copiedfrom></cm:copiedfrom>
+    </view:aspects>
+    <view:acl></view:acl>
+    <view:properties>
+      <app:icon>space-icon-default</app:icon>
+      <cm:name>Indice PQL PCK GDO COSMETICA</cm:name>
+      <sys:node-dbid>95225</sys:node-dbid>
+      <sys:store-identifier>SpacesStore</sys:store-identifier>
+      <cm:source>../cm:Indice_x0020_PQL_x0020_PCK</cm:source>
+      <cm:title>
+        <view:mlvalue view:locale="it_IT"></view:mlvalue>
+      </cm:title>
+      <sys:node-uuid>a5c4f9f2-bcfa-4a4a-bfb7-0406afd99a6a</sys:node-uuid>
+      <cm:modified>2010-10-06T14:31:38.212+02:00</cm:modified>
+      <cm:created>2010-05-05T15:10:41.273+02:00</cm:created>
+      <sys:store-protocol>workspace</sys:store-protocol>
+      <cm:description>
+        <view:mlvalue view:locale="it_IT"></view:mlvalue>
+      </cm:description>
+      <cm:creator>luigi</cm:creator>
+      <cm:modifier>nausica</cm:modifier>
+    </view:properties>
+    <view:associations>
+      <cm:contains>
+        <cm:content view:childName="cm:Indice PQL PCK GDO COSMETICA.xls">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:lockable></cm:lockable>
+            <cm:copiedfrom></cm:copiedfrom>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>Indice PQL PCK GDO COSMETICA.xls</cm:name>
+            <sys:node-dbid>95226</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:expiryDate>
+              <view:value view:isNull="true"></view:value>
+            </cm:expiryDate>
+            <sys:node-uuid>fd8c6462-8b68-4100-8611-7814c7b28db6</sys:node-uuid>
+            <cm:creator>luigi</cm:creator>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:description>
+            <cm:modifier>manuela</cm:modifier>
+            <cm:lockOwner>
+              <view:value view:isNull="true"></view:value>
+            </cm:lockOwner>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content34.xls|mimetype=application/vnd.ms-excel|size=23552|encoding=UTF-8|locale=en_US_</cm:content>
+            <cm:source>../../cm:Indice_x0020_PQL_x0020_PCK/cm:Indice_x0020_PQL_x0020_PCK.xls</cm:source>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:title>
+            <cm:modified>2013-01-15T12:12:27.426+01:00</cm:modified>
+            <cm:author></cm:author>
+            <cm:created>2010-05-05T15:10:41.296+02:00</cm:created>
+            <cm:lockType>
+              <view:value view:isNull="true"></view:value>
+            </cm:lockType>
+            <sys:store-protocol>workspace</sys:store-protocol>
+          </view:properties>
+        </cm:content>
+      </cm:contains>
+    </view:associations>
+  </cm:folder>
+  <cm:folder xmlns="" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rn="http://www.alfresco.org/model/rendition/1.0" xmlns:sys="http://www.alfresco.org/model/system/1.0" xmlns:lnk="http://www.alfresco.org/model/linksmodel/1.0" xmlns:gd="http://www.alfresco.org/model/googledocs/1.0" xmlns:ver="http://www.alfresco.org/model/versionstore/1.0" xmlns:cmiscustom="http://www.alfresco.org/model/cmis/custom" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:emailserver="http://www.alfresco.org/model/emailserver/1.0" xmlns:fm="http://www.alfresco.org/model/forum/1.0" xmlns:ia="http://www.alfresco.org/model/calendar" xmlns:rule="http://www.alfresco.org/model/rule/1.0" xmlns:wcm="http://www.alfresco.org/model/wcmmodel/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:dl="http://www.alfresco.org/model/datalist/1.0" xmlns:st="http://www.alfresco.org/model/site/1.0" xmlns:usr="http://www.alfresco.org/model/user/1.0" xmlns:custom="custom.model" xmlns:exif="http://www.alfresco.org/model/exif/1.0" xmlns:app="http://www.alfresco.org/model/application/1.0" xmlns:module="http://www.alfresco.org/system/modules/1.0" xmlns:d="http://www.alfresco.org/model/dictionary/1.0" xmlns:blg="http://www.alfresco.org/model/blogintegration/1.0" xmlns:alf="http://www.alfresco.org" xmlns:cmis="http://www.alfresco.org/model/cmis/1.0/cs01" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:wca="http://www.alfresco.org/model/wcmappmodel/1.0" xmlns:bpm="http://www.alfresco.org/model/bpm/1.0" xmlns:inwf="http://www.alfresco.org/model/workflow/invite/nominated/1.0" xmlns:imap="http://www.alfresco.org/model/imap/1.0" xmlns:cm="http://www.alfresco.org/model/content/1.0" xmlns:reg="http://www.alfresco.org/system/registry/1.0" xmlns:ver2="http://www.alfresco.org/model/versionstore/2.0" xmlns:stcp="http://www.alfresco.org/model/sitecustomproperty/1.0" xmlns:wcmwf="http://www.alfresco.org/model/wcmworkflow/1.0" xmlns:view="http://www.alfresco.org/view/repository/1.0" xmlns:imwf="http://www.alfresco.org/model/workflow/invite/moderated/1.0" xmlns:act="http://www.alfresco.org/model/action/1.0" xmlns:wf="http://www.alfresco.org/model/workflow/1.0" xmlns:trx="http://www.alfresco.org/model/transfer/1.0" view:childName="cm:Piani qualità PQL PCK">
+    <view:aspects>
+      <cm:auditable></cm:auditable>
+      <sys:referenceable></sys:referenceable>
+    </view:aspects>
+    <view:acl></view:acl>
+    <view:properties>
+      <cm:name>Piani qualità PQL PCK</cm:name>
+      <sys:node-dbid>140696</sys:node-dbid>
+      <sys:store-identifier>SpacesStore</sys:store-identifier>
+      <cm:modified>2010-09-01T11:26:41.710+02:00</cm:modified>
+      <sys:node-uuid>2844f03b-6a8c-4b0a-a319-43890d661f3d</sys:node-uuid>
+      <cm:created>2010-07-29T17:06:20.717+02:00</cm:created>
+      <sys:store-protocol>workspace</sys:store-protocol>
+      <cm:creator>nausica</cm:creator>
+      <cm:modifier>nausica</cm:modifier>
+    </view:properties>
+    <view:associations>
+      <cm:contains>
+        <cm:content view:childName="cm:PQL PCK PK 10-11-12 ed02.pdf">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:lockable></cm:lockable>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name>PQL PCK PK 10-11-12 ed02.pdf</cm:name>
+            <sys:node-dbid>145157</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:lockOwner>
+              <view:value view:isNull="true"></view:value>
+            </cm:lockOwner>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content35.doc|mimetype=application/msword|size=260096|encoding=UTF-8|locale=en_US_</cm:content>
+            <cm:expiryDate>
+              <view:value view:isNull="true"></view:value>
+            </cm:expiryDate>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:title>
+            <cm:modified>2010-10-06T16:21:44.655+02:00</cm:modified>
+            <cm:author></cm:author>
+            <sys:node-uuid>cb79af40-1774-4e32-80e1-b2da387c4d20</sys:node-uuid>
+            <cm:created>2010-09-01T10:01:38.960+02:00</cm:created>
+            <cm:lockType>
+              <view:value view:isNull="true"></view:value>
+            </cm:lockType>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:creator>nausica</cm:creator>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT">linea Near Eurospin</view:mlvalue>
+            </cm:description>
+            <cm:modifier>nausica</cm:modifier>
+          </view:properties>
+        </cm:content>
+        <cm:content view:childName="cm: PQL PCK 48 ed 00.pdf">
+          <view:aspects>
+            <cm:auditable></cm:auditable>
+            <sys:referenceable></sys:referenceable>
+            <cm:titled></cm:titled>
+            <cm:author></cm:author>
+          </view:aspects>
+          <view:acl></view:acl>
+          <view:properties>
+            <cm:name> PQL PCK 48 ed 00.pdf</cm:name>
+            <sys:node-dbid>145163</sys:node-dbid>
+            <sys:store-identifier>SpacesStore</sys:store-identifier>
+            <cm:content>contentUrl=PQLPCK01-documentiComuni/content36.pdf|mimetype=application/pdf|size=58816|encoding=UTF-8|locale=en_US_</cm:content>
+            <cm:title>
+              <view:mlvalue view:locale="it_IT"></view:mlvalue>
+            </cm:title>
+            <cm:author></cm:author>
+            <sys:node-uuid>6e13b6d0-f243-4554-a57e-6c6a142c680d</sys:node-uuid>
+            <cm:modified>2010-10-06T14:34:17.370+02:00</cm:modified>
+            <cm:created>2010-09-01T11:26:43.544+02:00</cm:created>
+            <sys:store-protocol>workspace</sys:store-protocol>
+            <cm:description>
+              <view:mlvalue view:locale="it_IT">gel lavapiatti</view:mlvalue>
+            </cm:description>
+            <cm:creator>nausica</cm:creator>
+            <cm:modifier>nausica</cm:modifier>
+          </view:properties>
+        </cm:content>
+      </cm:contains>
+    </view:associations>
+  </cm:folder>
+</view:view>
